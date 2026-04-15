@@ -1,6 +1,6 @@
 #define MY_WIFI_SSID   "P2701"
 #define MY_WIFI_PASS   "12345678"
-#define MY_TG_TOKEN    "8742088977:AAHd42VKmKzbXef21JX9PtmmgEmQQD3nZjE"
+#define MY_TG_TOKEN    ""
 #define MY_TG_CHAT_ID  "5540092261"
 #define MY_SERVER      "https://fish.kolla.click"
 
